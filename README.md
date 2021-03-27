@@ -1,6 +1,5 @@
-# github在linux和windows上的正确使用方法！
+# github在linux上面上传项目的方法！
 
-一、linux上上传github项目
 主要有以下几个步骤：
 登录github，新建一个项目new repository
 把当前目录变成git可以管理的仓库
@@ -58,4 +57,4 @@ ERROR：如果git没有commit就执行push操作会出现以下错误，"unable 
 
 参考地址：https://www.jianshu.com/p/7130674b0e1c
 
-二、windows上传github项目
+
