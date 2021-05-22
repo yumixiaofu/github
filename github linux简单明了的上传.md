@@ -1,3 +1,12 @@
+# 注意事项
+
+git remote add origin https://github.com/BlueYuQuan/test.git 这里别忘了把origin换成自己仓库的名字，还有https链接也要换
+
+
+git push -u origin master，这里别忘记把origin换成仓库的名字，master是版本，自己随意测试
+
+
+
 # 如何将linux下的代码上传到github上
 
 本文适用情景：linux系统，第一次上传，远端没有对应厂库。其它情景仅作参考！
